@@ -65,8 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a mid-level software engineer specializing in building online solutions. Currently, working
-        at{' '}
+        I’m a mid-level software engineer specializing in Backend Development. Currently, working at{' '}
         <a href="https://www.boxfusion.co.za/" target="_blank" rel="noreferrer">
           Boxfusion
         </a>

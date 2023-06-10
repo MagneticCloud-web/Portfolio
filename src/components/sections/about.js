@@ -133,26 +133,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, my name is Makitimela Katlego Joel Emmanuel Lekala, a Mid-Level Developer with  years of experience in the tech industry. 
-              I specialize in C#, and I'm passionate about using my skills to develop innovative solutions to complex problems.
-              My journey as a developer began in 2019 at Tsogo Sun interning in their Development team after completing my . 
-              Since then, I've worked with a wide range of technologies, frameworks and programming languages, including Nodejs, AngularJS, Adonisjs to name a few.
-              Throughout my career, I've honed my skills in Microsoft Web Stack (MVC, C#, Razor, IIS, ASP.Net). I'm dedicated to delivering high-quality code that meets the needs of my clients or users.
-              I believe in the power of collaboration and teamwork, and I enjoy working with others to achieve shared goals.
-              In my free time, I enjoy gaming and football, which helps me stay creative and inspired.
-              I'm always looking for new challenges and opportunities to learn, and I'm excited to see what the future holds for the tech industry.
-              If you're interested in working together, feel free to <a href="#contact">contact me</a>{' '}. Thanks for taking the time to learn more about me and my work!
+              Hi, my name is Makitimela Katlego Joel Emmanuel Lekala, a Mid-Level Developer with
+              years of experience in the tech industry. I specialize in C#, and I'm passionate about
+              using my skills to develop innovative solutions to complex problems. My journey as a
+              developer began in 2019 at Tsogo Sun interning in their Development team after
+              completing my . Since then, I've worked with a wide range of technologies, frameworks
+              and programming languages, including Nodejs, AngularJS, Adonisjs to name a few.
+              Throughout my career, I've honed my skills in Microsoft Web Stack (MVC, C#, Razor,
+              IIS, ASP.Net). I'm dedicated to delivering high-quality code that meets the needs of
+              my clients or users. I believe in the power of collaboration and teamwork, and I enjoy
+              working with others to achieve shared goals. In my free time, I enjoy gaming and
+              football, which helps me stay creative and inspired. I'm always looking for new
+              challenges and opportunities to learn, and I'm excited to see what the future holds
+              for the tech industry. If you're interested in working together, feel free to{' '}
+              <a href="#contact">contact me</a> . Thanks for taking the time to learn more about me
+              and my work!
             </p>
-            
           </div>
-
         </StyledText>
 
         <StyledPic>
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/293041683_2145468572279511_270445823510409323_n (1).jpg"
+              src="src/images/293041683_2145468572279511_270445823510409323_n (1).jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
